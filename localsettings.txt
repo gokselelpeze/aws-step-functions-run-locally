@@ -1,0 +1,1 @@
+LAMBDA_ENDPOINT=http://host.docker.internal:3001/
