@@ -15,6 +15,7 @@ To build and run locally your application for the first time, run the following 
 
 ```bash
 sam build
+docker network create foo
 sam local start-lambda --docker-network foo
 ```
 
